@@ -12,7 +12,7 @@ from telebot import types
 from flask import Flask, request, jsonify, Response
 
 # ══════════════ الإعدادات (عدّلها هنا) ══════════════
-BOT_TOKEN   = "8851431969:AAHJ1GgFAOM-KfSf2XExHXAQm4vi2BepSZs"
+BOT_TOKEN   = "8851431969:AAE5hy8YHUyKP8qo2bZke8-YPPAsJzDuuU0"
 ADMIN_IDS   = [8924875914]                 # آيديات الأدمن
 WEBAPP_URL  = "https://watsh.onrender.com"   # رابط HTTPS الذي يشير لهذا السيرفر
 ADSGRAM_BLOCK_ID = "1234"                 # Block ID (Rewarded) من partner.adsgram.ai
