@@ -14,7 +14,7 @@ from flask import Flask, request, jsonify, Response
 # ══════════════ الإعدادات (عدّلها هنا) ══════════════
 BOT_TOKEN   = "8851431969:AAHJ1GgFAOM-KfSf2XExHXAQm4vi2BepSZs"
 ADMIN_IDS   = [8924875914]                 # آيديات الأدمن
-WEBAPP_URL  = "https://watermelon.fps.ms"   # رابط HTTPS الذي يشير لهذا السيرفر
+WEBAPP_URL  = "https://watsh.onrender.com"   # رابط HTTPS الذي يشير لهذا السيرفر
 ADSGRAM_BLOCK_ID = "1234"                 # Block ID (Rewarded) من partner.adsgram.ai
 PORT        = int(os.environ.get("PORT", 8080))
 DB_FILE     = "ads_bot.db"
